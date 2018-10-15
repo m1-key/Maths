@@ -1,4 +1,6 @@
 # Maths
+1-EFFICIENT WAY OF FINDING PRIMES:- 
+
 Created a program to find and print the prime numbers which occur till the given value of 'n'.
 
 First I have created a Boolean array having only True values for 'n' numbers.
