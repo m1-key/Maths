@@ -1,7 +1,7 @@
 # Maths
 Created a program to find and print the prime numbers which occur till the given value of 'n'.
 
-First I have created a Boolean array having True values only for 'n' numbers.
+First I have created a Boolean array having only True values for 'n' numbers.
 
 Since we know if a number(say a) has factors then definitely one of its factor will lie from 1 to √a , that's why I have put that condition on while loop.
 
